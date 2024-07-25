@@ -1,0 +1,10 @@
+.container {
+    padding: 16px;
+    border-radius: 8px;
+    background-color: beige;
+    border: 1px solid green;
+    display: flex;
+    flex-direction: column;
+    gap:16px;
+    width: 90%;
+}
